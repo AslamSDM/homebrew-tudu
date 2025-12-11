@@ -1,6 +1,6 @@
 cask "tudu" do
-  version "1.0.2"
-  sha256 "c839f56c9ff401a5b84f2e5ea656f79701a43d6603447bf51f9293be42d730c4" # From step 2.3
+  version "1.0.3"
+  sha256 "5773fce9d5058ce64f870782b9fb2fba2d496a57d255b75171d54fa61e9bc851" # From step 2.3
 
   url "https://github.com/AslamSDM/tudu/releases/download/v#{version}/Tudu.zip"
   name "Tudu"
