@@ -5,7 +5,7 @@ cask "tudu" do
   url "https://github.com/YOUR_USERNAME/tudu/releases/download/v#{version}/Tudu.zip"
   name "Tudu"
   desc "Beautiful todo app with widget support"
-  homepage "https://github.com/YOUR_USERNAME/tudu"
+  homepage "https://github.com/AslamSDM/tudu"
 
   livecheck do
     url :url
