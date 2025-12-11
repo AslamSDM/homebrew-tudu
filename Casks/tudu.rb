@@ -1,8 +1,8 @@
 cask "tudu" do
-  version "1.0.0"
-  sha256 "YOUR_SHA256_HASH_HERE" # From step 2.3
+  version "1.0.2"
+  sha256 "c839f56c9ff401a5b84f2e5ea656f79701a43d6603447bf51f9293be42d730c4" # From step 2.3
 
-  url "https://github.com/YOUR_USERNAME/tudu/releases/download/v#{version}/Tudu.zip"
+  url "https://github.com/AslamSDM/tudu/releases/download/v#{version}/Tudu.zip"
   name "Tudu"
   desc "Beautiful todo app with widget support"
   homepage "https://github.com/AslamSDM/tudu"
